@@ -1,1 +1,0 @@
-Não consegui anexar o arquivo de maneira adequada, pois estou programando pelo celular e não consegui acessar a ferramenta Git dessa forma. No entanto, todos os arquivos estão organizados no arquivo ZIP e também nas pastas anexadas. Espero que compreendam a situação.
